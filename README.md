@@ -6,15 +6,15 @@ STEPS:
 
 2.npm install in root directory of application
 
-3.npm install in backend
+3.npm install in backend folder
 
-4.ng serve in root directory of application
+4.connect mongodb by mongo in terminal 
 
-5.nodemon app.js in /backend
+5.ng serve in root directory of application
 
-6.connect mongodb by mongo in terminal 
+6.node app.js in backend folder
 
-7.localhost:4200 in browser
+7.localhost:4200/api in browser
 
 8.localhost:8000/api for checking json object array
 
